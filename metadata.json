@@ -1,0 +1,8 @@
+{
+  "name": "MineGuard - Underground Mine Safety & Monitoring System",
+  "description": "Industrial underground mine safety monitoring dashboard featuring 5 safety layers, geological digital twin strata abnormality prediction, layer-level drilling telemetry, borehole ventilation and gas evacuation outlets, rescue robotics, and emergency response.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
